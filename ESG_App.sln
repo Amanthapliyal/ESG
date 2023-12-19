@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESG_App", "ESG_App\ESG_App.csproj", "{68973CB6-BF38-4D93-8DC7-E5A3214D08D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESG_TEST", "ESG_TEST\ESG_TEST.csproj", "{3DA29214-A443-430C-91E7-62CF710FB194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68973CB6-BF38-4D93-8DC7-E5A3214D08D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68973CB6-BF38-4D93-8DC7-E5A3214D08D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68973CB6-BF38-4D93-8DC7-E5A3214D08D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68973CB6-BF38-4D93-8DC7-E5A3214D08D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA29214-A443-430C-91E7-62CF710FB194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA29214-A443-430C-91E7-62CF710FB194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA29214-A443-430C-91E7-62CF710FB194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA29214-A443-430C-91E7-62CF710FB194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02212F3-E830-4E09-94C7-B08CDC8ECB88}
+	EndGlobalSection
+EndGlobal
